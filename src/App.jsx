@@ -6,23 +6,23 @@ import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
 const todoItems = [
   {
     id: '1',
-    name: 'Kopi Bubuk',
+    name: 'Beli token listrik',
     checked: true,
   },
   {
     id: '2',
-    name: 'Gula Pasir',
+    name: 'Minta ttd pak RT',
     checked: true,
   },
   {
     id: '3',
-    name: 'Air Mineral',
+    name: 'Ambil print an',
     checked: true,
   },
 
   {
     id: '4',
-    name: 'Air Mineral',
+    name: 'Nyetrika',
     checked: false,
   },
 ];
