@@ -12,12 +12,12 @@ const todoItems = [
   {
     id: '2',
     name: 'Minta ttd pak RT',
-    checked: true,
+    checked: false,
   },
   {
     id: '3',
     name: 'Ambil print an',
-    checked: true,
+    checked: false,
   },
 
   {
